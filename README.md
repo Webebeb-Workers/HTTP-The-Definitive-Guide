@@ -13,7 +13,23 @@
 
 ## 🌻 Members
 
-|                                               곽수정                                               |                                              윤태연                                               |                                               최선아                                               |                                              유미라                                              |
-| :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/kwaksj329" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/rhino-ty" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/choiseona" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/ssum1ra" alt="profile" width="180" height="180"> |
-|                             [@kwaksj329](https://github.com/kwaksj329)                             |                             [@rhino-ty](https://github.com/rhino-ty)                              |                             [@choiseona](https://github.com/choiseona)                             |                              [@ssum1ra](https://github.com/ssum1ra)                              |
+<table>
+  <tr>
+    <th>곽수정</th>
+    <th>윤태연</th>
+    <th>유미라</th>
+    <th>최선아</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/51fab285-bd79-420e-8626-c0ed8ee495e4" width="120" height="120"></td>
+    <td><img src="https://github.com/user-attachments/assets/7859d594-9d43-439a-a035-af040d1b368b" width="120" height="120"></td>
+    <td><img src="https://github.com/user-attachments/assets/c1abc9ca-780d-4677-825b-c18eed526fa1" width="120" height="120"></td>
+    <td><img src="https://github.com/user-attachments/assets/b435b634-f676-407a-8fba-18c9bc1ace40" width="120" height="120"></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/kwaksj329">@kwaksj329</a></td>
+    <td><a href="https://github.com/rhino-ty">@rhino-ty</a></td>
+    <td><a href="https://github.com/sweetyr928">@ssum1ra</a></td>
+    <td><a href="https://github.com/choiseona">@choiseona</a></td>
+  </tr>
+</table>
